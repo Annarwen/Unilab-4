@@ -1,0 +1,519 @@
+.links {
+    display: flex;
+}
+.pages {
+    display: flex;
+}
+
+.container {
+    max-width: 1188px;
+    width: 90%;
+    margin: 0 auto ;
+}
+.home {
+    margin-left: 304px;
+}
+
+.contact {
+    margin-right: 310px;
+}
+.about {
+    margin-left: 51px;
+}
+.blog {
+    margin-left: 51px;
+}
+.contact {
+    margin-left: 51px;
+}
+.links {
+    margin-top: 23px;
+}
+.rorizont {
+    margin-top: 80px;
+}
+.user-controls {
+    margin-top: 19px;
+    margin-left: 100px;        }
+
+    .product {
+        text-align: center;
+        margin-top: 40px;
+    }
+.products-all {
+    display: flex;
+}
+.container-two {
+
+    max-width: 1188px;
+    width: 90%;
+    margin: 0 auto ;
+
+}
+
+.products-all {
+    margin-top: 65px;
+   
+}
+.picture-three {
+    margin-left: 50px;
+}
+.card-one {
+    border: 2px solid black;
+    max-width: 280px;
+    height: 410px;
+    border-radius: 2px;
+
+}
+
+.card-two {
+    border: 2px solid black;
+    max-width: 280px;
+    height: 410px;
+    border-radius: 2px;
+
+}
+.card-three {
+    border: 2px solid black;
+    max-width: 280px;
+    height: 410px;
+    border-radius: 2px;
+}
+.card-one {
+    margin-right: 170px;
+}
+.card-two {
+    margin-right: 170px;
+}
+.picture-one {
+    width: 260px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.picture-two {
+    width: 260px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.picture-three {
+    width: 260px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+.buttons {
+    text-align: center;
+  
+}
+.buttons-all {
+    padding: 0px;
+    display: flex;
+}
+.buttons-all li {
+    list-style: none;
+    border: 2px solid black; 
+    font-weight: bold;
+    width:95px ;
+    height: 22px;
+    border-radius: 3px;
+
+     
+}
+
+.first-button {
+    margin-left: 190px;
+    
+}
+.second-button {
+    margin-left: 360px;
+}
+.third-button {
+    margin-left: 363px;
+}
+.buttons-all {
+    margin-top: 20px;
+}
+ul li a {
+    text-decoration: none;
+    color: black;
+}
+.buttons-all {
+    margin-top: 15px;
+}
+
+
+
+.all-footers {
+    display: flex;
+}
+.footer-one {
+    margin-left: 120px;
+}
+.footer-two {
+    margin-left: 185px;
+}
+.footer-three {
+    margin-left: 185px;
+}
+.all-footers {
+    margin-top: 60px;
+}
+
+.more-products {
+    text-decoration: underline;
+    list-style: none;
+    margin-left: 1180px;
+    margin-top: 20px;
+}
+.contact-info {
+    display: flex;
+}
+h1 a {
+    color: black;
+}
+
+.about-page {
+    display: flex;
+}
+.blog-details li {
+    list-style: none;
+}
+.blog-details li {
+    display: inline;
+    text-align: center;
+    text-decoration: none;
+}
+.article-one {
+    display: flex;
+}
+.article-two {
+    display: flex;
+}
+
+.box {
+   
+    height: 228px;
+    background-color: #E5EBE5;
+    margin-left: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+}
+.container-three {
+    max-width: 900px;
+    width: 90%;
+    margin: 0 auto;
+
+}
+
+.article-two {
+    margin-top: 110px;
+}
+.read-more {
+    border: 1px solid black;
+    margin-top: 60px;
+    margin-left: 720px;
+    width: 180px;
+   
+ 
+    
+}
+
+.designer-info {
+    display: flex;
+}
+.info-details {
+    display: flex;
+}
+.edit-info li {
+    list-style: none;
+}
+.box-three {
+    background-color: #87AC87;
+    width: 220px;
+    height: 60px;
+    border-radius: 10px;
+}
+.container-four {
+    width: 900px;
+    height: 100px;
+    margin-left: 440px;
+    margin-top: 50px;
+}
+.mail-adress {
+    font-size: 21px;
+    letter-spacing: 3%;
+    font-weight: 600;
+    font-style: italic;
+    
+}
+.number {
+    font-size: 21px;
+    letter-spacing: 3%;
+    font-weight: 600;
+    font-style: normal;
+
+}
+.time {
+    font-size: 21px;
+    letter-spacing: 3%;
+    font-weight: 600;
+    font-style: normal;
+}
+.adress-current {
+    font-size: 21px;
+    letter-spacing: 3%;
+    font-weight: 600;
+    font-style: normal;
+}
+.info-one {
+    margin-left: 195px;
+}
+.info-two {
+    margin-left: 130px;
+}
+.contact-info {
+    margin-top: 78px;
+}
+.contactus {
+    font-weight: 700;
+    font-size: xx-large;
+    letter-spacing: 3%;
+    line-height-step: 40px;
+    margin-top: 80px;
+    text-align: center;
+    color: #7D0000;
+}
+.company {
+    font-size: xx-large;
+    font-weight: 600;
+    letter-spacing: 3%;
+    color: #7D0000;
+    margin-top: 80px;
+    text-align: center;
+}
+.about-article {
+    border: 1px solid white1;
+    width: 520px;
+    margin-left: 130px;
+
+}
+.text {
+    font-weight: 200;
+    font-size: x-large;
+    line-height-step: 41px;
+    letter-spacing: 3%;
+}
+.adress2 {
+    font-style: italic;
+    letter-spacing: 3%;
+    font-size: large;
+    font-weight: 100;
+    margin-left: 285px;
+    margin-top: 90px;
+}
+.about-pic {
+    width: 480px;
+    height: 300px;
+    margin-left: 40px;
+    border-radius: 20px;
+    margin-top: 45px;
+
+
+}
+.interesting {
+    font-weight: 500;
+    font-size: x-large;
+    line-height: 28px;
+    margin-top: 50px;
+
+}
+.the-list {
+    text-align: center;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21px;
+    word-spacing: 50px;
+    margin-top: 50px;
+
+}
+.article-one {
+    margin-top: 50px;
+}
+.holydays {
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 21px;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.holyday-article {
+
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 16px;
+    margin-left: 10px;
+  margin-top: 30px;
+
+}
+.kimono {
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 21px;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.kimono-article {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 16px;
+    margin-left: 10px;
+  margin-top: 30px;
+}
+.dotted{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-decoration: underline;
+}
+.read-more {
+    margin-top: 90px;
+    
+}
+
+.face {
+    margin-top: 90px;
+
+
+}
+.about-designer {
+    margin-top: 110px;
+    margin-left: 50px;
+   
+
+
+}
+.designer-name {
+    font-weight: 500;
+    size: 30px;
+    line-height: 45px;
+    letter-spacing: 3%;
+    margin-left: 37px;
+}
+.product-design {
+    font-weight: 400;
+    font-style: italic;
+    line-height: 33px;
+    letter-spacing: 3%;
+    list-style: none;
+    margin-left: 0;
+    font-size: x-large;
+    
+
+
+}
+.all-contacts {
+    margin-top: 50px;
+}
+
+.about-line {
+    font-weight: 505;
+    line-height: 36px;
+    letter-spacing: 3%;
+    font-size: 32px;
+
+}
+.components {
+    font-weight: 5000;
+    font-size: small;
+    line-height: 30px;
+    letter-spacing: 5%;
+    margin-top: 50px;
+
+}
+
+.answer-contacts {
+    margin-left: 200px;
+    margin-top: 165px;
+    font-weight: 50;
+    font-size: small;
+    line-height: 30px;
+    letter-spacing: 3%;
+
+
+}
+.box-three {
+    margin-left: 1050px;
+    margin-top: 0px;
+}
+.edit-two{
+    font-size: larger;
+    font-weight: 200;
+    color: #FFFFFF;
+   line-height: 56px;
+
+}
+.dotted {
+    text-decoration: none;
+    margin-left: 1px;
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.pink {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 15px;
+
+
+}
+.bag {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 15px;
+
+}
+.oil {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+
+    margin-left: 15px;
+}
+
+.pink-note {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 3%;
+    margin-left: 15px;
+
+}
+.bag-note {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 3%;
+    margin-left: 15px;
+}
+.oil-note {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 3%;
+    margin-left: 15px;
+}
+.horizont-two {
+    width: 90px;
+    color: #7D0000;
+
+}
+.read {
+    font-weight: 200;
+    font-size: 12px;
+    line-height: 5px;
+    text-decoration: underline;
+}
